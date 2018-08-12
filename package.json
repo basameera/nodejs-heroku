@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-heroku",
+  "version": "1.0.0",
+  "description": "Node JS on Heroku Template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0",
+    "serve-favicon": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basameera/nodejs-heroku.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
+  "author": "Sameera Sandaruwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basameera/nodejs-heroku/issues"
+  },
+  "homepage": "https://github.com/basameera/nodejs-heroku#readme"
+}
